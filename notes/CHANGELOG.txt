@@ -1,0 +1,3 @@
+CHANGELOG Umbrella-Spoofer
+v2.0.4 2026-09-11
+Stamp rev-v8rm9t-20261027

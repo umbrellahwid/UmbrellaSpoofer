@@ -1,0 +1,4 @@
+USAGE Umbrella-Spoofer
+hwid reset. hwid checker. hwid ban.
+Extract. Run. See readme.
+Stamp rev-v8rm9t-20261027
